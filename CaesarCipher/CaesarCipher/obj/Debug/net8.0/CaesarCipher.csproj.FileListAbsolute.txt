@@ -1,0 +1,28 @@
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.exe
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.deps.json
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.runtimeconfig.json
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.dll
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.pdb
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.AssemblyInfoInputs.cache
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.AssemblyInfo.cs
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.csproj.CoreCompileInputs.cache
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.dll
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\refint\CaesarCipher.dll
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.pdb
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.genruntimeconfig.cache
+D:\Programming stuff\C# , WPF, .NET\Projects\CaesarCipher\CaesarCipher\obj\Debug\net8.0\ref\CaesarCipher.dll
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.exe
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.deps.json
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.runtimeconfig.json
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.dll
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\bin\Debug\net8.0\CaesarCipher.pdb
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.AssemblyInfoInputs.cache
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.AssemblyInfo.cs
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.csproj.CoreCompileInputs.cache
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.dll
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\refint\CaesarCipher.dll
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.pdb
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\CaesarCipher.genruntimeconfig.cache
+D:\Projects\C# Visual Studio\CaesarCipher\CaesarCipher\obj\Debug\net8.0\ref\CaesarCipher.dll
